@@ -1,5 +1,5 @@
 # StudentGradeGen
-1. Write a program to generate a result sheet for student of SSC.
+1. Write a program to generate a result sheet for student of SSC with OOP Mind
 
 Input File - marks.txt (first row - coulumn names). From second line - each row is for single student data
 ----------------------------------------------------------------------------------------------------------
